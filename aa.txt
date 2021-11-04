@@ -1,3 +1,8 @@
 int aa
 int bb
+<<<<<<< HEAD
 int qq
+=======
+int ww
+
+>>>>>>> test2
